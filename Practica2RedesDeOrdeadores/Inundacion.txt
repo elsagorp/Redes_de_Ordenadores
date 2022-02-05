@@ -1,0 +1,22 @@
+
+Origen: 4 
+
+Destino: 0 
+
+Paquetes recibidos: 
+ Iteracion 1: 0|0|0|0|0|0|
+  Iteracion 2: 0|0|1|0|0|0|
+  Iteracion 3: 0|1|0|0|0|1|
+  Iteracion 4: 0|0|0|1|0|0|
+  Iteracion 5: 1|0|0|0|0|0|
+ 
+
+Paquetes generados: 
+ Iteracion 1: 0|0|0|0|2|0|
+ Iteracion 2: 0|0|0|0|2|0|
+ Iteracion 3: 0|0|3|0|1|0|
+ Iteracion 4: 0|1|2|1|0|0|
+ Iteracion 5: 0|1|1|0|0|0|
+
+
+Paquetes recibidos en total:5

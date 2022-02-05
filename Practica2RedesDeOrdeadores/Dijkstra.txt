@@ -1,0 +1,24 @@
+
+Origen: 3 
+
+Destino: 0 
+
+Matriz de costes: 
+ Iteracion 1: 2|0|2|0|0|0|
+  Iteracion 2: 0|0|0|0|0|0|
+  Iteracion 3: 0|0|0|0|0|0|
+  Iteracion 4: 0|0|0|0|0|0|
+  Iteracion 5: 0|0|0|0|0|0|
+  Iteracion 6: 0|0|0|0|0|0|
+ 
+
+Matriz de consolidados: 
+ Iteracion 1: 1|0|0|1|0|0|
+ Iteracion 2: 0|0|0|0|0|0|
+ Iteracion 3: 0|0|0|0|0|0|
+ Iteracion 4: 0|0|0|0|0|0|
+ Iteracion 5: 0|0|0|0|0|0|
+ Iteracion 6: 0|0|0|0|0|0|
+
+
+Coste total de la ruta mas corta:2
